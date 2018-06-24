@@ -1,2 +1,2 @@
-# Tesseract-Training
-Training module for Maths Symbols
+# Tesseract-on-Server
+A c++ wrapper to get text recognition data through tesseract
